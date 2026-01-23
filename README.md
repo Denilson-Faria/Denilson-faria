@@ -32,9 +32,9 @@ interface Developer {
 const denilson: Developer = {
   nome: "Denilson Faria",
   localização: "Belo Horizonte, MG 🇧🇷",
-  skills: ["HTML", "CSS", "JavaScript"],
+  skills: ["HTML", "CSS", "JavaScript", "React.js", "tailwind.CSS",
   foco: ["UI/UX", "Performance", "Clean Code"],
-  status: "Aprendendo React 📚"
+  status: "Aprendendo Next.js 📚"
 };
 ```
 
@@ -175,7 +175,7 @@ Tela de autenticação moderna com glassmorphism e validação visual.
 
 | Plataforma | Link |
 |------------|------|
-| 🌐 Portfolio | [portfoliodfaria.vercel.app](https://portfoliodfaria.vercel.app/) |
+| 🌐 Portfolio | [portfoliodfv3.vercel.app](https://portfoliodfv3.vercel.app/) |
 | 💼 LinkedIn | [Denilson Faria](https://www.linkedin.com/in/denilsonvbFaria) |
 | 📧 Email | dfariafreela@gmail.com |
 | 💬 WhatsApp | [+55 31 99350-9726](https://wa.me/5531993509726) |
